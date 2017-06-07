@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestApp</string>
+    <string name="address_R">Address:</string>
+    <string name="name_R">Name:</string>
+    <string name="email_R">Email</string>
+    <string name="fetch_userR">Fetch User</string>
+    <string name="list_viewR">List View</string>
+    <string name="recycle_viewR">Recycle View</string>
+</resources>
